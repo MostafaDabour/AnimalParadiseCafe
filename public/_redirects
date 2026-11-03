@@ -1,0 +1,10 @@
+/our-menu /smoothies/ 301
+/our-menu/ /smoothies/ 301
+/order-pickup /order/ 301
+/order-pickup/ /order/ 301
+/cart /order/ 301
+/cart/ /order/ 301
+/checkout /order/ 301
+/checkout/ /order/ 301
+/shop /menu/ 301
+/shop/ /menu/ 301

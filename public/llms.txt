@@ -1,0 +1,47 @@
+# Animal Cafe
+
+> Açaí bowls, smoothies and protein shakes inside Animal Paradise Gyms, 3849 S Delsea Dr, Suite E000, Vineland, NJ 08360. Open every day 4AM to 12AM. Phone 856-839-4536.
+
+## Pages
+- [Home](https://animalcafe.net/)
+- [Açaí Bowls](https://animalcafe.net/acai-bowls/)
+- [Smoothies](https://animalcafe.net/smoothies/)
+- [Protein Shakes](https://animalcafe.net/protein-shakes/)
+- [Full Menu](https://animalcafe.net/menu/)
+- [Order](https://animalcafe.net/order/)
+- [About](https://animalcafe.net/about-us/)
+- [Contact](https://animalcafe.net/contact/)
+- [FAQ](https://animalcafe.net/faq/)
+
+## Ordering
+- Pickup (bowls): https://animal-cafe.cloveronline.com/menu/all
+- Uber Eats: https://www.ubereats.com/store/animal-cafe/uxlY_r_lUMOmbjL9ZRG-vQ
+- DoorDash: https://www.doordash.com/store/animal-cafe-vineland-32609433/105593151/
+- Grubhub: https://www.grubhub.com/restaurant/animal-cafe-3849-s-delsea-dr-vineland/10498544
+
+## Menu
+- The Animal Paradise Bowl: $11.99 (Banana, Strawberries, Almond halves, Nutella drizzle)
+- The Oasis Bowl: $11.99 (Pineapple, Mango, Coconut flakes, Honey drizzle)
+- The Vineland Bowl: $11.99 (Blueberries, Strawberries, Chia seeds, Strawberry drizzle)
+- Banana Berry Bliss Bowl: $11.99 (Strawberries, Blueberries, Cocoa nibs, Peanut butter drizzle)
+- The Sunrise Bowl: $12.99 (Pineapple, Kiwi, Coconut flakes, Honey drizzle)
+- The Dragon Breeze Bowl: $12.99 (Blueberries, Raspberries, Toasted coconut, Chia seeds, Nutella drizzle)
+- The Tropical Twist Bowl: $12.99 (Banana, Mango, Almond halves, Caramel drizzle)
+- Paradise Split Bowl: $12.99 (Kiwi, Pineapple, Cocoa nibs, Nutella drizzle)
+- Jungle Berry: $9.99 (Strawberry, Blueberry, Raspberry, Blackberry, Coconut water)
+- Island Heat: $9.99 (Pineapple, Mango, Banana, Kiwi, Coconut water)
+- Paradise Citrus: $9.99 (Orange, Mango, Pineapple, Coconut water)
+- Tiki Chill: $9.99 (Banana, Strawberry, Blueberry, Coconut water)
+- Build Your Own Smoothie: $9.99 (Any base, Any 3 fruits)
+- Gorilla Gainz: $10.99 (Isolate vanilla whey, Banana, Almond milk, Natural peanut butter)
+- Lean Machine: $9.99 (Isolate vanilla whey, Mixed berries, Coconut water)
+- Muscle Monkey Madness: $10.99 (Isolate chocolate whey, Banana, Almond milk, Natural peanut butter)
+- Tropical Paradise: $10.99 (Isolate whey, Pineapple, Mango, Coconut water, Greek yogurt)
+- Berry Blast: $10.49 (Isolate whey, Mixed berries, Greek yogurt)
+- Citrus Sunrise: $10.99 (Isolate whey, Orange, Pineapple, Coconut water, Greek yogurt)
+
+- Build your own bowl: $10.49 single base, $11.99 split base
+
+## Related
+- Animal Paradise Gyms: https://animalparadisegyms.com/
+- Animal Supps: https://animalsupps.co/
