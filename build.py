@@ -178,17 +178,11 @@ def art(sw, img=None, alt="", eager=False):
     return f'<div class="art" style="{style}" aria-hidden="{ "false" if img else "true"}"><span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span>{im}</div>'
 
 def order_links(it):
-    btns = []
-    if it["pickup"]:
-        url = CLV + it["clover"] if it["clover"] else CLOVER
-        btns.append(ext(url, "Order pickup", "btn btn-sm btn-mango"))
-    if it["delivery"]:
-        btns.append(f'<span class="deliv">Delivery: {ext(UBER,"Uber Eats")} {ext(DOOR,"DoorDash")} {ext(GRUB,"Grubhub")}</span>')
-    if not it["pickup"]:
-        btns.insert(0, f'<a class="btn btn-sm btn-ghost" href="{TEL}">Call to order</a>')
-        if not it["delivery"]:
-            btns.append('<span class="deliv">Made at the counter</span>')
-    return '<div class="card-actions">' + "".join(btns) + "</div>"
+    # Same actions on every product card: pickup on Clover, then the 3 delivery apps.
+    url = CLV + it["clover"] if it["clover"] else CLOVER
+    pickup = f'<a class="btn btn-sm btn-mango" href="{url}" target="_blank" rel="noopener">Order pickup</a>'
+    deliv = f'<span class="deliv">Delivery: {ext(UBER,"Uber Eats")} {ext(DOOR,"DoorDash")} {ext(GRUB,"Grubhub")}</span>'
+    return '<div class="card-actions">' + pickup + deliv + "</div>"
 
 def card(it, eager=False):
     badge = f'<span class="badge">{e(it["badge"])}</span>' if it["badge"] else ""
