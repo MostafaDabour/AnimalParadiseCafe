@@ -10,7 +10,17 @@
       "permanent": true
     },
     {
+      "source": "/our-menu/",
+      "destination": "/smoothies/",
+      "permanent": true
+    },
+    {
       "source": "/order-pickup",
+      "destination": "/order/",
+      "permanent": true
+    },
+    {
+      "source": "/order-pickup/",
       "destination": "/order/",
       "permanent": true
     },
@@ -20,12 +30,27 @@
       "permanent": true
     },
     {
+      "source": "/cart/",
+      "destination": "/order/",
+      "permanent": true
+    },
+    {
       "source": "/checkout",
       "destination": "/order/",
       "permanent": true
     },
     {
+      "source": "/checkout/",
+      "destination": "/order/",
+      "permanent": true
+    },
+    {
       "source": "/shop",
+      "destination": "/menu/",
+      "permanent": true
+    },
+    {
+      "source": "/shop/",
       "destination": "/menu/",
       "permanent": true
     }
