@@ -631,7 +631,7 @@ def footer():
     <div class="socials">{ext(IG,"Instagram")}{ext(FB,"Facebook")}</div></div>
   <div><h2>Menu</h2><ul>{cols}</ul></div>
   <div><h2>Order</h2><ul><li>{ext(CLOVER,"Pickup menu")}</li><li>{ext(UBER,"Uber Eats")}</li><li>{ext(DOOR,"DoorDash")}</li><li>{ext(GRUB,"Grubhub")}</li><li>{ext(APG,"Animal Paradise Gyms")}</li><li>{ext(SUPPS,"Animal Supps")}</li></ul></div>
-  <div><h2>Visit</h2><ul class="plain"><li>{ADDR1}</li><li>Cumberland Mall, {ADDR2}</li><li>Every day 4AM to 12AM</li><li><a href="{TEL}">{PHONE}</a></li><li><a href="mailto:{EMAIL}">{EMAIL}</a></li><li>{ext(MAPS,"Get directions")}</li></ul></div>
+  <div><h2>Visit</h2><ul class="plain"><li>{ADDR1}</li><li>Cumberland Mall, {ADDR2}</li><li>Every day 4AM to 12AM</li><li><a href="{TEL}">{PHONE}</a></li><li><a href="mailto:{EMAIL}">{EMAIL}</a></li><li>{ext(IG,"Instagram @animalcafenj")}</li><li>{ext(MAPS,"Get directions")}</li></ul></div>
 </div><div class="wrap foot-base"><span>© 2026 Animal Cafe · Vineland, NJ</span><span>Website and marketing by Leads Magnets</span></div></footer>
 <a class="mobile-order" href="#order" data-order aria-haspopup="dialog">Order for pickup</a>
 {order_modal()}'''
